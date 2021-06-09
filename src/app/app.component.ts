@@ -1,4 +1,4 @@
-import { Component, VERSION } from '@angular/core';
+import { Component } from '@angular/core';
 import '@animaliads/ani-button/index.js';
 
 @Component({
@@ -6,6 +6,4 @@ import '@animaliads/ani-button/index.js';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
-  name = 'Angular ' + VERSION.major;
-}
+export class AppComponent {}
