@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import '@animaliads/ani-button/index.js';
+import '@animaliads/ani-button';
 
 @Component({
   selector: 'my-app',
