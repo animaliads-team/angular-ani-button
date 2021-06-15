@@ -11,8 +11,7 @@
     "@angular/platform-browser": "11.2.14",
     "@angular/platform-browser-dynamic": "11.2.14",
     "@angular/router": "11.2.14",
-    "@animaliads/ani-button": "next",
-    "@animaliads/css-tokens": "1.0.0-next.1",
+    "@animaliads/ani-button": "dev",
     "rxjs": "6.6.7",
     "tslib": "2.2.0",
     "zone.js": "0.11.4"
