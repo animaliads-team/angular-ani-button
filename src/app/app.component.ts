@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
-import '@animaliads/ani-button';
 import '@animaliads/css-tokens/global-tokens.css';
 import '@animaliads/animalia-brand/theme.css';
+import '@animaliads/ani-button';
 
 @Component({
   selector: 'my-app',
